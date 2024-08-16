@@ -1,11 +1,6 @@
 #include<iostream>
 using namespace std;
-<<<<<<< HEAD
 int main(){
-    
+    int number=0;
+    cout << "enter the number";
 }
-=======
-
-int number
->>>>>>> feature
-
